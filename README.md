@@ -1,0 +1,1 @@
+NutriLog is a C# console application that allows users to track their daily calorie and macronutrient intake. It helps users manage a personal profile, log foods from a persistent database, and view a summary of their nutrition.
