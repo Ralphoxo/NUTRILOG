@@ -1,0 +1,418 @@
+[
+  {
+    "Name": "Chicken Breast (100g)",
+    "Calories": 165,
+    "Protein": 31,
+    "Carbs": 0,
+    "Fat": 3.6,
+    "Category": "Carnivore"
+  },
+  {
+    "Name": "Chicken Thigh (100g)",
+    "Calories": 209,
+    "Protein": 26,
+    "Carbs": 0,
+    "Fat": 10.9,
+    "Category": "Carnivore"
+  },
+  {
+    "Name": "Chicken Drumstick (100g)",
+    "Calories": 175,
+    "Protein": 22,
+    "Carbs": 0,
+    "Fat": 8,
+    "Category": "Carnivore"
+  },
+  {
+    "Name": "Chicken Wing (100g)",
+    "Calories": 203,
+    "Protein": 30,
+    "Carbs": 0,
+    "Fat": 8.1,
+    "Category": "Carnivore"
+  },
+  {
+    "Name": "Turkey Breast (100g)",
+    "Calories": 135,
+    "Protein": 29,
+    "Carbs": 0,
+    "Fat": 1,
+    "Category": "Carnivore"
+  },
+  {
+    "Name": "Beef Steak (Sirloin, 100g)",
+    "Calories": 271,
+    "Protein": 25,
+    "Carbs": 0,
+    "Fat": 19,
+    "Category": "Carnivore"
+  },
+  {
+    "Name": "Ground Beef (90% lean, 100g)",
+    "Calories": 217,
+    "Protein": 26,
+    "Carbs": 0,
+    "Fat": 12,
+    "Category": "Carnivore"
+  },
+  {
+    "Name": "Beef Tenderloin (100g)",
+    "Calories": 258,
+    "Protein": 27,
+    "Carbs": 0,
+    "Fat": 15,
+    "Category": "Carnivore"
+  },
+  {
+    "Name": "Pork Chop (100g)",
+    "Calories": 231,
+    "Protein": 25,
+    "Carbs": 0,
+    "Fat": 14,
+    "Category": "Carnivore"
+  },
+  {
+    "Name": "Pork Belly (100g)",
+    "Calories": 518,
+    "Protein": 9,
+    "Carbs": 0,
+    "Fat": 53,
+    "Category": "Carnivore"
+  },
+  {
+    "Name": "Pork Tenderloin (100g)",
+    "Calories": 143,
+    "Protein": 26,
+    "Carbs": 0,
+    "Fat": 3.5,
+    "Category": "Carnivore"
+  },
+  {
+    "Name": "Bacon (Cooked, 100g)",
+    "Calories": 541,
+    "Protein": 37,
+    "Carbs": 1.4,
+    "Fat": 42,
+    "Category": "Carnivore"
+  },
+  {
+    "Name": "Ham (Sliced, 100g)",
+    "Calories": 145,
+    "Protein": 21,
+    "Carbs": 1.5,
+    "Fat": 6,
+    "Category": "Carnivore"
+  },
+  {
+    "Name": "Lamb Chop (100g)",
+    "Calories": 294,
+    "Protein": 25,
+    "Carbs": 0,
+    "Fat": 21,
+    "Category": "Carnivore"
+  },
+  {
+    "Name": "Salmon Fillet (100g)",
+    "Calories": 208,
+    "Protein": 20,
+    "Carbs": 0,
+    "Fat": 13,
+    "Category": "Carnivore"
+  },
+  {
+    "Name": "Tuna (Canned in water, 100g)",
+    "Calories": 116,
+    "Protein": 26,
+    "Carbs": 0,
+    "Fat": 1,
+    "Category": "Carnivore"
+  },
+  {
+    "Name": "Cod Fillet (100g)",
+    "Calories": 82,
+    "Protein": 18,
+    "Carbs": 0,
+    "Fat": 0.7,
+    "Category": "Carnivore"
+  },
+  {
+    "Name": "Tilapia Fillet (100g)",
+    "Calories": 128,
+    "Protein": 26,
+    "Carbs": 0,
+    "Fat": 2.7,
+    "Category": "Carnivore"
+  },
+  {
+    "Name": "Shrimp (Cooked, 100g)",
+    "Calories": 99,
+    "Protein": 24,
+    "Carbs": 0.2,
+    "Fat": 0.3,
+    "Category": "Carnivore"
+  },
+  {
+    "Name": "Egg (Large)",
+    "Calories": 78,
+    "Protein": 6,
+    "Carbs": 0.6,
+    "Fat": 5,
+    "Category": "Carnivore"
+  },
+  {
+    "Name": "Egg White",
+    "Calories": 17,
+    "Protein": 3.6,
+    "Carbs": 0.2,
+    "Fat": 0.1,
+    "Category": "Carnivore"
+  },
+  {
+    "Name": "Egg Yolk",
+    "Calories": 55,
+    "Protein": 2.7,
+    "Carbs": 0.6,
+    "Fat": 4.5,
+    "Category": "Carnivore"
+  },
+  {
+    "Name": "Milk (Whole, 100g)",
+    "Calories": 61,
+    "Protein": 3.2,
+    "Carbs": 4.8,
+    "Fat": 3.3,
+    "Category": "Carnivore"
+  },
+  {
+    "Name": "Greek Yogurt (Plain, 100g)",
+    "Calories": 59,
+    "Protein": 10,
+    "Carbs": 3.6,
+    "Fat": 0.4,
+    "Category": "Carnivore"
+  },
+  {
+    "Name": "Cottage Cheese (100g)",
+    "Calories": 98,
+    "Protein": 11,
+    "Carbs": 3.4,
+    "Fat": 4.3,
+    "Category": "Carnivore"
+  },
+  {
+    "Name": "Cheddar Cheese (100g)",
+    "Calories": 403,
+    "Protein": 25,
+    "Carbs": 1.3,
+    "Fat": 33,
+    "Category": "Carnivore"
+  },
+  {
+    "Name": "Mozzarella Cheese (100g)",
+    "Calories": 300,
+    "Protein": 22,
+    "Carbs": 2.2,
+    "Fat": 22,
+    "Category": "Carnivore"
+  },
+  {
+    "Name": "Butter (100g)",
+    "Calories": 717,
+    "Protein": 0.9,
+    "Carbs": 0.1,
+    "Fat": 81,
+    "Category": "Carnivore"
+  },
+  {
+    "Name": "White Rice (Cooked, 100g)",
+    "Calories": 130,
+    "Protein": 2.7,
+    "Carbs": 28,
+    "Fat": 0.3,
+    "Category": "Healthy"
+  },
+  {
+    "Name": "Brown Rice (Cooked, 100g)",
+    "Calories": 111,
+    "Protein": 2.6,
+    "Carbs": 23,
+    "Fat": 0.9,
+    "Category": "Healthy"
+  },
+  {
+    "Name": "Quinoa (Cooked, 100g)",
+    "Calories": 120,
+    "Protein": 4.4,
+    "Carbs": 21,
+    "Fat": 1.9,
+    "Category": "Healthy"
+  },
+  {
+    "Name": "Oatmeal (Cooked, 100g)",
+    "Calories": 68,
+    "Protein": 2.4,
+    "Carbs": 12,
+    "Fat": 1.4,
+    "Category": "Healthy"
+  },
+  {
+    "Name": "Spaghetti (Cooked, 100g)",
+    "Calories": 158,
+    "Protein": 5.8,
+    "Carbs": 31,
+    "Fat": 0.9,
+    "Category": "Healthy"
+  },
+  {
+    "Name": "Whole Wheat Bread (100g)",
+    "Calories": 247,
+    "Protein": 13,
+    "Carbs": 41,
+    "Fat": 3.4,
+    "Category": "Healthy"
+  },
+  {
+    "Name": "Potato (Baked, 100g)",
+    "Calories": 93,
+    "Protein": 2.5,
+    "Carbs": 21,
+    "Fat": 0.1,
+    "Category": "Healthy"
+  },
+  {
+    "Name": "Sweet Potato (Baked, 100g)",
+    "Calories": 86,
+    "Protein": 1.6,
+    "Carbs": 20,
+    "Fat": 0.1,
+    "Category": "Healthy"
+  },
+  {
+    "Name": "French Fries (100g)",
+    "Calories": 312,
+    "Protein": 3.4,
+    "Carbs": 41,
+    "Fat": 15,
+    "Category": "Normal"
+  },
+  {
+    "Name": "Apple (100g)",
+    "Calories": 52,
+    "Protein": 0.3,
+    "Carbs": 14,
+    "Fat": 0.2,
+    "Category": "Healthy"
+  },
+  {
+    "Name": "Banana (100g)",
+    "Calories": 89,
+    "Protein": 1.1,
+    "Carbs": 23,
+    "Fat": 0.3,
+    "Category": "Healthy"
+  },
+  {
+    "Name": "Orange (100g)",
+    "Calories": 47,
+    "Protein": 0.9,
+    "Carbs": 12,
+    "Fat": 0.1,
+    "Category": "Healthy"
+  },
+  {
+    "Name": "Broccoli (100g)",
+    "Calories": 34,
+    "Protein": 2.8,
+    "Carbs": 7,
+    "Fat": 0.4,
+    "Category": "Healthy"
+  },
+  {
+    "Name": "Spinach (100g)",
+    "Calories": 23,
+    "Protein": 2.9,
+    "Carbs": 3.6,
+    "Fat": 0.4,
+    "Category": "Healthy"
+  },
+  {
+    "Name": "Carrots (100g)",
+    "Calories": 41,
+    "Protein": 0.9,
+    "Carbs": 10,
+    "Fat": 0.2,
+    "Category": "Healthy"
+  },
+  {
+    "Name": "Avocado (100g)",
+    "Calories": 160,
+    "Protein": 2,
+    "Carbs": 9,
+    "Fat": 15,
+    "Category": "Healthy"
+  },
+  {
+    "Name": "Almonds (100g)",
+    "Calories": 579,
+    "Protein": 21,
+    "Carbs": 22,
+    "Fat": 50,
+    "Category": "Healthy"
+  },
+  {
+    "Name": "Peanuts (100g)",
+    "Calories": 567,
+    "Protein": 26,
+    "Carbs": 16,
+    "Fat": 49,
+    "Category": "Healthy"
+  },
+  {
+    "Name": "Olive Oil (100g)",
+    "Calories": 884,
+    "Protein": 0,
+    "Carbs": 0,
+    "Fat": 100,
+    "Category": "Healthy"
+  },
+  {
+    "Name": "Milk Chocolate (100g)",
+    "Calories": 535,
+    "Protein": 8,
+    "Carbs": 59,
+    "Fat": 30,
+    "Category": "Normal"
+  },
+  {
+    "Name": "Potato Chips (100g)",
+    "Calories": 536,
+    "Protein": 7,
+    "Carbs": 53,
+    "Fat": 35,
+    "Category": "Normal"
+  },
+  {
+    "Name": "Ice Cream (100g)",
+    "Calories": 207,
+    "Protein": 3.5,
+    "Carbs": 24,
+    "Fat": 11,
+    "Category": "Normal"
+  },
+  {
+    "Name": "Coca-Cola (100g)",
+    "Calories": 38,
+    "Protein": 0,
+    "Carbs": 10.1,
+    "Fat": 0,
+    "Category": "Normal"
+  },
+  {
+    "Name": "Beer (100g)",
+    "Calories": 43,
+    "Protein": 0.5,
+    "Carbs": 3.6,
+    "Fat": 0,
+    "Category": "Normal"
+  }
+]
